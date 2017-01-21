@@ -1,4 +1,4 @@
-package com.basiccalculator.simplecalculator;
+package com.actualcalc.mycalculator;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
